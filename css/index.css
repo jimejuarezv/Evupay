@@ -28,6 +28,7 @@
 }
 
 .create-account {
+    height: 6.5rem; ;
     border: 1px solid black;
     border-radius: 1.8rem;
     font-size: 2.4rem;
@@ -53,109 +54,117 @@
     
 }
 .titulo2{
-margin-left: 7rem;
+margin-left: 7.5rem;
 font-style: normal;
 font-weight: 700;
-font-size: 20px;
+font-size: 2.8rem;
 line-height: 30px;
 }
 .img{
     float: left;
     position: absolute;
-    margin-left: -10.7rem;
-    margin-top: 4.5rem;
-    width: 14rem;
-    height: 14rem;
+    margin-left: -17.5rem;
+    margin-top: 5rem;
+    width: 20.5rem;
 }
 .letras_circulo{
-
     position: absolute;
-    margin-top: 10rem;
-    margin-left: -7.5rem;
+    margin-top: 11.5rem;
+    margin-left: -12.8rem;
     font-family: 'Poppins';
     text-align: center;
     font-style: normal;
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 3rem;
     line-height: 30px;
 }
 .imagenes{
-   
-    width: 50%;
+    float: left;
+    width: 80%;
     height: 4rem;
-    margin-top: 19rem;
-    
+    margin-left: 4.2rem;
+    margin-top: 27rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 .item{
     background-color:#E6E6E6;;
-    width: 4rem;
-    height: 4rem;
+    width: 6.4rem;
+    height: 6.4rem;
     border-radius: 20%;
-   
+
 }
 .item1{
     background-color: black;
-    width: 4rem;
-    height: 4rem;
+    width: 6.4rem;
+    height: 6.4rem;
+    align-items: center;
+    border-radius: 20%;
     align-items: center;
 }
 .img_item1{
-    margin-top: 0.6rem;
-    margin-left: -0.1rem;
+    width: 6.9rem;
+    margin-top: 1rem;
+    margin-left: -0.3rem;
 }
 .img_item2{
-    margin-top: 0.6rem;
-    margin-left: 0.6rem;
+    width: 4rem;
+    margin-top: 1.2rem;
+    margin-left: 1.1rem;
 }
 .img_item3{
-    margin-top: 0.6rem;
-    margin-left: 0.5rem;
+    width: 4.5rem;
+    margin-top: 1rem;
+    margin-left: 0.8rem;
 }
 .palabras_div{
-    width: 47.5%;
+    float: left;
+    width: 77%;
     height: 1rem;
-    margin-left: 0.3rem;
+    margin-left: 4.5rem;
+    margin-top: 3rem;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    font-size: 0.9rem;
+    font-size: 1.5rem;
     line-height: 18px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 .titulo3{
-    margin-top: 1.5rem;
+    float: left;
+   margin-top: 4rem;
     font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.8rem;
+    line-height: 30px;
 }
 .tran{
-    width: 48%;
-    height: 21rem;
+    float: left;
+    width: 41.4rem  ;
+    height: 45rem;
 }
 .items{
     width: 100%;
-    height: 5.3rem;
+    height: 11.2rem;
     display: flex;
     align-items: center;
     border-bottom: 1px solid rgba(0, 0, 0, 0.4);;
 }
 .items_{
     background-color: #E6E6E6;;
-    width: 3rem;
-    height: 3rem;
+    width: 5.3rem;
+    height: 5.3rem;
     border-radius: 15%;
     
     
 }
 .items_ img{
-    margin-top: 0.2rem;
+    width: 6rem;
+    margin-top: 0.7rem;
     margin-left: -0.2rem;
 }
 .a{
@@ -163,38 +172,38 @@ line-height: 30px;
     font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
-font-size: 0.8rem;
+font-size: 1.2rem;
 line-height: 18px;
-margin-top: -2.3rem;
-margin-left: 3.5rem;
+margin-top: -3.1rem;
+margin-left: 8rem;
 }
 .ab{
     position: absolute;
-margin-left: 16.5rem;
-margin-top: -2.1rem;
+margin-left: 33rem;
+margin-top: -3.1rem;
 font-style: normal;
 font-weight: 700;
-font-size: 0.8rem;
+font-size: 1.2rem;
 line-height: 18px;
 
 }
 .ac{
     position: absolute;
-margin-top: 0.5rem;
-margin-left: 0.8rem;
+margin-top: -3.7rem;
+margin-left: 8rem;
 font-style: normal;
 font-weight: 700;
-font-size: 0.8rem;
+font-size: 1.2rem;
 line-height: 18px;
 
 }
 .abc{
     position: absolute;
-    margin-top: 0.5rem;
-    margin-left: 13.9rem;
+    margin-top: -3.7rem;
+    margin-left: 33rem;
     font-style: normal;
 font-weight: 700;
-font-size: 0.8rem;
+font-size: 1.2rem;
 line-height: 18px;
 
 }
@@ -203,4 +212,122 @@ line-height: 18px;
     height: 5.3rem;
     display: flex;
     align-items: center;
+    margin-top: 3rem;
+}
+.link{
+    text-decoration: none;
+}
+.link1{
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+}
+/*hoja3*/
+.login3{
+    font-family: 'Poppins';
+    width: 41.3rem;
+    height: 89.6rem;
+    float: left;
+}
+.back{
+    float: left;
+    margin-top:2rem;
+    width: 6.8rem;
+    height: 2.3rem;
+}
+.create{
+    margin-top: 26rem;
+    margin-left: 2rem;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 3.4rem;
+line-height: 40px;
+}
+.hoja3{
+        width: 41.4rem; 
+        height: 37rem;
+}
+.grupo{
+    width: 100%;
+    height: 9rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);;
+}
+
+.grupo h2{
+    margin-left: 2.3rem;
+    color: rgb(97, 95, 95);
+    font-family: 'Poppins';
+
+}
+.grupo span{
+
+    position: absolute;
+    margin-top: 5.8rem;
+    margin-left: 2.3rem;
+    font-size: 1.4rem;
+    color: gray;
+    font-family: 'Poppins';
+
+ 
+}
+.hoja3_end{
+    
+    height: 7.7rem;
+}
+.cuadro{
+    float: left;
+    width: 1.8rem;
+    height: 1.8rem;
+    border: 1px solid rgb(175, 175, 175);
+    margin-top: 2.2rem;
+    margin-left: 2.6rem;
+}
+.hoja3_end span{
+    float: left;
+    margin-top: 2.4rem;
+    font-size: 1.4rem;
+    margin-left: 0.8rem;
+    color: rgb(134, 133, 133);
+    font-family: 'Poppins';
+
+}
+.sign{
+float: left;
+    width: 37.9rem;
+    height: 6.1rem;
+    background-color: black;
+    color: white;
+    margin-left: 1.7rem;
+    border-radius: 25px;
+    box-sizing: border-box;
+}
+.sign h1{
+    float: left;
+    margin-left: 14.9rem;
+    margin-top: 2rem;
+    font-family: 'Poppins';
+
+}
+.end{
+    float: left;
+    width: 100%;
+    height: 8.5rem;
+}
+.end span{
+    float: left;
+    font-size: 1.5rem;
+    margin-left: 9.5rem;
+    margin-top: 2rem;
+    font-family: 'Poppins';
+
+}
+.end h2{
+    float: left;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    font-family: 'Poppins';
+
 }

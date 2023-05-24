@@ -11,7 +11,13 @@ body {
     font-size: 10px;
     font-family: 'Reem Kufi', sans-serif;
 }
+body  div{
+    text-decoration: none;
 
+}
+.create_acount{
+background-color: red;
+}
 :root {
     --color1: #000000;
     --color2: #fff;
